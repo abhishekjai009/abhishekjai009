@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me jaiswalabhishek1100@gmail.com
 - 😄 Pronouns: Abhishek
-- ⚡ Fun fact: I love to create website for my clients
+- ⚡ Fun fact: I love to create website and Apps
 
 <!---
 abhishekjai009/abhishekjai009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
